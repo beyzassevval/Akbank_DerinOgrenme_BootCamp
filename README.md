@@ -118,9 +118,9 @@ Tıbbi görüntüleme sistemleriyle entegrasyon
 📚 Referanslar ve Bağlantılar
 Proje Bağlantıları:
 Kaggle Veri Seti: Beyin MR Görüntüleri için Tümör Tespiti
-
+https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
 Kaggle Notebook'um: Brain MR - Akbank Bootcamp
-
+https://www.kaggle.com/code/beyzasenkus/brain-mr-akbank-bootcamp
 Teknik Referanslar:
 EfficientNet: Konvolüsyonel Sinir Ağları için Model Ölçeklendirmeyi Yeniden Düşünmek (ICML 2019)
 
